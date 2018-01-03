@@ -1,4 +1,4 @@
-Yet an another PHP Codesiffer container
+Yet an another PHP Codesniffer container
 ===
 
 ### Installed coding standards
