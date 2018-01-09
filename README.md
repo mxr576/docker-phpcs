@@ -22,4 +22,4 @@ docker run -it --rm -v $(pwd):/data mxr576/phpcs phpcbf fooo.php
 (Where `fooo.php` is an existing file in the current working directory.)
 
 ### PHPStorm usage example
-![PHPStorm configuration](phpstorm.gif)
+![PHPStorm configuration](https://raw.githubusercontent.com/mxr576/docker-phpcs/master/phpstorm.gif)
