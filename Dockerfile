@@ -18,3 +18,4 @@ VOLUME /data
 WORKDIR /data
 
 ENTRYPOINT ["phpcs"]
+CMD ["-i"]
